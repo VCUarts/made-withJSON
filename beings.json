@@ -1,0 +1,60 @@
+{
+    "being": [
+        {
+            "id": "1",
+            "firstName": "Cody",
+            "lastName": "Whitby",
+            "title": "Developer",
+            "bio": "Graduated 2011 from VCUarts Graphic Design. Web Developer for VCUarts. Dedicated fan of terrible baseball.",
+            "photo": "http://arts.vcu.edu/dev/madewithlove/photos/cody.png"
+        },
+        {
+            "id": "2",
+            "firstName": "Mark",
+            "lastName": "Luetke",
+            "title": "Developer",
+            "bio": "Graduated 2010 from VCUarts Graphic Design. Associate Director of Web Development for VCUarts. Lives in the woods and likes it.",
+            "photo": "http://arts.vcu.edu/dev/madewithlove/photos/mark.png"
+        },
+        {
+            "id": "3",
+            "firstName": "Grace",
+            "lastName": "Huddleston",
+            "title": "Illustrator",
+            "bio": "VCUarts Painting + Printmaking class of 2014! VCUarts Admissions Counselor, Joan Jonas wannabe, and general maker of things.",
+            "photo": "http://arts.vcu.edu/dev/madewithlove/photos/grace.png"
+        },
+        {
+            "id": "4",
+            "firstName": "Casey",
+            "lastName": "Ferguson",
+            "title": "Project Manager",
+            "bio": "Communications graduate from East Carolina University. Project Manager with VCUarts. Loves cats and crafts.",
+            "photo": "http://arts.vcu.edu/dev/madewithlove/photos/casey.png"
+        },
+        {
+            "id": "5",
+            "firstName": "Dan",
+            "lastName": "Strogiy",
+            "title": "Web Developer Intern",
+            "bio": "VCUarts Graphic Design class of 2016. Web developer intern. Russian.",
+            "photo": "http://arts.vcu.edu/dev/madewithlove/photos/dan.png"
+        },
+        {
+            "id": "6",
+            "firstName": "Grace",
+            "lastName": "Manno",
+            "title": "Illustrator",
+            "bio": "Graduated 2012 from VCUarts Communication Arts. Dean's Office Coordinator for VCUarts. Draws pictures, performs comedy, cooks food.",
+            "photo": "http://arts.vcu.edu/dev/madewithlove/photos/grace-m.png"
+        },
+        {
+            "id": "7",
+            "firstName": "Reggie",
+            "lastName": "Pace",
+            "title": "Rock Star",
+            "bio": "Attended VCUarts Music. Founder of Jellowstone Records. Musician with NO BS! Brass, Bon Iver, Arizal, Trio of Justice and Pacecadets. Writer of RVA All DAY.",
+            "photo": "http://arts.vcu.edu/dev/madewithlove/photos/reggie.png"
+        }
+    ]
+}
