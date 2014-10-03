@@ -30,15 +30,16 @@
 
   $people = $json['being'];
 
-  foreach ($people as $person) { ?>
-  
-    <div class="being">
-      <img src="<?php echo $person['photo']; ?>">
-      <h4><?php echo "{$person['firstName']} "; echo $person['lastName']; ?></h4>
-      <p><?php echo $person['bio']; ?></p>
-    </div>
+  foreach ($people as $person) {
+    if (in_array("red", $person['projects'])) { ?>
 
-    <?php
+      <div class="being">
+        <img src="<?php echo $person['photo']; ?>">
+        <h4><?php echo "{$person['firstName']} "; echo $person['lastName']; ?></h4>
+        <p><?php echo $person['bio']; ?></p>
+      </div>
+
+    <?php }
   }
 
 ?>
