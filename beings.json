@@ -1,7 +1,7 @@
 {
     "being": [
         {
-            "id": "1",
+            "id": "0",
             "projects": ["red", "blue"],
             "firstName": "Cody",
             "lastName": "Whitby",
@@ -10,7 +10,7 @@
             "photo": "http://arts.vcu.edu/dev/madewithlove/photos/cody.png"
         },
         {
-            "id": "2",
+            "id": "1",
             "projects": ["red"],
             "firstName": "Mark",
             "lastName": "Luetke",
@@ -19,7 +19,7 @@
             "photo": "http://arts.vcu.edu/dev/madewithlove/photos/mark.png"
         },
         {
-            "id": "3",
+            "id": "2",
             "projects": ["yellow", "red", "white", "blue"],
             "firstName": "Grace",
             "lastName": "Huddleston",
@@ -28,7 +28,7 @@
             "photo": "http://arts.vcu.edu/dev/madewithlove/photos/grace.png"
         },
         {
-            "id": "4",
+            "id": "3",
             "projects": ["yellow"],
             "firstName": "Casey",
             "lastName": "Ferguson",
@@ -37,7 +37,7 @@
             "photo": "http://arts.vcu.edu/dev/madewithlove/photos/casey.png"
         },
         {
-            "id": "5",
+            "id": "4",
             "projects": ["yellow"],
             "firstName": "Dan",
             "lastName": "Strogiy",
@@ -46,7 +46,7 @@
             "photo": "http://arts.vcu.edu/dev/madewithlove/photos/dan.png"
         },
         {
-            "id": "6",
+            "id": "5",
             "projects": ["yellow"],
             "firstName": "Grace",
             "lastName": "Manno",
@@ -55,7 +55,7 @@
             "photo": "http://arts.vcu.edu/dev/madewithlove/photos/grace-m.png"
         },
         {
-            "id": "7",
+            "id": "6",
             "projects": ["yellow"],
             "firstName": "Reggie",
             "lastName": "Pace",
